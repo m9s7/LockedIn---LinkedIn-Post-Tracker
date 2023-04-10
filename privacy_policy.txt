@@ -1,6 +1,6 @@
-Privacy Policy for [Website Name] at [Website URL], a [Website Type] website
+Privacy Policy for LockedIn - LinkedIn Post Tracker at https://www.linkedin.com/company/lockedin-linkedin-post-tracker
 
-At [Website Name], we take your privacy very seriously. This Privacy Policy describes how we collect, use, and disclose information that we obtain from you when you use our website.
+At LockedIn - LinkedIn Post Tracker, we take your privacy very seriously. This Privacy Policy describes how we collect, use, and disclose information that we obtain from you when you use our website.
 
 Information We Collect
 
@@ -28,4 +28,4 @@ We may update this Privacy Policy from time to time in order to reflect changes 
 
 Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at [contact email].
+If you have any questions or concerns about this Privacy Policy, please contact us at matijasreckovic97@gmail.com.

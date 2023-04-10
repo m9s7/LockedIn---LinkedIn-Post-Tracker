@@ -1,0 +1,31 @@
+Privacy Policy for [Website Name] at [Website URL], a [Website Type] website
+
+At [Website Name], we take your privacy very seriously. This Privacy Policy describes how we collect, use, and disclose information that we obtain from you when you use our website.
+
+Information We Collect
+
+When you visit our website, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse our website, we collect information about the individual web pages or products that you view, what websites or search terms referred you to our website, and information about how you interact with our website.
+
+If you choose to use our LinkedIn API integration, we will collect your LinkedIn profile name, impressions, likes, comments, shares, and time posted at certain time intervals. We will store this information in a Google Sheet that we control.
+
+How We Use Your Information
+
+We use the information that we collect to provide and improve our website and services, to analyze how our website is used, and to personalize your experience on our website. If you choose to use our LinkedIn API integration, we will use the information we collect to populate the Google Sheet that we control.
+
+We may also share your information with third-party service providers who assist us in operating our website or providing services to you, such as our web hosting provider, or with law enforcement agencies if we are required to do so by law.
+
+Cookies
+
+We use cookies and other tracking technologies to track your use of our website and to provide personalized ads. You can choose to disable cookies through your browser settings, but doing so may limit your ability to use some features of our website.
+
+Security
+
+We take reasonable measures to protect your personal information from unauthorized access, use, or disclosure. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee the absolute security of your personal information.
+
+Changes to this Policy
+
+We may update this Privacy Policy from time to time in order to reflect changes to our practices or for other operational, legal, or regulatory reasons. We encourage you to review this Privacy Policy periodically.
+
+Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at [contact email].
